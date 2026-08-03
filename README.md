@@ -77,6 +77,12 @@ For full details, please refer to the official GNU website.
 
 ---
 
+## Screenshots
+
+<img width="896" height="671" alt="Screenshot 2026-08-04 074435" src="https://github.com/user-attachments/assets/0c6e8718-b3be-4f57-80c4-45176419f990" />
+<img width="895" height="670" alt="Screenshot 2026-08-04 074447" src="https://github.com/user-attachments/assets/b41da5cc-f587-4cc2-91ac-a64594ff9c9f" />
+
+
 © **2026 Jessica Amy**  
 All rights reserved under GPLv3.
 
