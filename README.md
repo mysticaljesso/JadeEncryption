@@ -15,38 +15,19 @@ Contact: **contact@jessicaamy.com**
 
 ---
 
-## Current Version – 1.1.1
+## Current Version – 1.1.2
+Code
+This commit retires the original 2016 Jade Encryption codebase.
 
-This release focuses on cleanup and stability:
+Changes:
+- Renamed UI and metadata to "Jade Encryption Classic"
+- Fixed the long-standing SharpAESCrypt.dll path issue under MSIX sandboxing
+- Updated About box with GPLv3, attribution, and final release notes
+- Ensured full compatibility with old SimpleCrypt files
+- Added final version header comments and cleaned UI text
+- Project now ready for GitHub release and Microsoft Store (v1.1.2)
 
-- Updated project name and website references  
-- Removed outdated Bitcoin-related components  
-- General code tidy-up  
-- Stable and ready for use  
-
-No major functional changes — this update exists to revive the project and prepare for the next generation.
-
----
-
-## Temporary Dependency: SharpAESCrypt
-
-Jade Encryption currently uses **SharpAESCrypt** as a temporary AES implementation.
-
-To avoid licensing issues:
-
-- **Only the DLL is included**  
-- **The source code is NOT redistributed**  
-
-SharpAESCrypt will be **removed in Version 1.1.2** and replaced with a fully custom, modern encryption engine. This ensures:
-
-- No external licensing conflicts  
-- Full control over the encryption pipeline  
-- Cleaner integration  
-- Better long-term maintainability  
-
-The DLL is used purely as a placeholder until the new engine is ready.
-
----
+Farewell to the classic version — Jade Encryption 2.0 will be a brand new codebase.
 
 ## Roadmap – Version 2.0 (In Development)
 
