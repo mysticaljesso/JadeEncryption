@@ -7,6 +7,14 @@ using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+// 12/08/2026 - 5:42AM
+
+// The last final version of Jade Encryption 1.1.2 Its going to be called Jade Encryption Classic until final launch
+
+// This is the main encryption functions, this is where the magic happens
+
+// I replaced SimpleCrypt with JadeEncryption in the file header small change but makes it a final special fix
+
 namespace JadeEncryption
 {
 
@@ -56,7 +64,7 @@ namespace JadeEncryption
                 lock (lockObject)
                 {
 
-                    SharpAESCrypt.SharpAESCrypt.Extension_CreatedByIdentifier = "SimpleCrypt";
+                    SharpAESCrypt.SharpAESCrypt.Extension_CreatedByIdentifier = "JadeEncryption";
                     using (FileStream output = new FileStream(@filename + ".aes", FileMode.Create, FileAccess.ReadWrite))
                     {
                         SharpAESCrypt.SharpAESCrypt aesStream = new SharpAESCrypt.SharpAESCrypt(password, output, SharpAESCrypt.OperationMode.Encrypt);
@@ -118,7 +126,7 @@ namespace JadeEncryption
 
                 lock (lockObject)
                 {
-                    SharpAESCrypt.SharpAESCrypt.Extension_CreatedByIdentifier = "SimpleCrypt";
+                    SharpAESCrypt.SharpAESCrypt.Extension_CreatedByIdentifier = "JadeEncryption";
 
                     using (FileStream output = new FileStream(@filename.Replace(".aes", ""), FileMode.OpenOrCreate, FileAccess.ReadWrite))
                     {

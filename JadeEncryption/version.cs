@@ -8,6 +8,6 @@ namespace JadeEncryption
 {
     public class version
     {
-        public string ver = "1.1.1";
+        public string ver = "1.1.2";
     }
 }

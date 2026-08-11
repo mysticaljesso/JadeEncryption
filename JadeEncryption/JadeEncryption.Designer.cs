@@ -480,20 +480,20 @@
             // ToolStripStatusLabel4
             // 
             this.ToolStripStatusLabel4.Name = "ToolStripStatusLabel4";
-            this.ToolStripStatusLabel4.Size = new System.Drawing.Size(243, 17);
+            this.ToolStripStatusLabel4.Size = new System.Drawing.Size(265, 17);
             this.ToolStripStatusLabel4.Spring = true;
             // 
             // ToolStripStatusLabel1
             // 
             this.ToolStripStatusLabel1.Name = "ToolStripStatusLabel1";
-            this.ToolStripStatusLabel1.Size = new System.Drawing.Size(170, 17);
-            this.ToolStripStatusLabel1.Text = "Jade Encryption © Jessica Amy";
+            this.ToolStripStatusLabel1.Size = new System.Drawing.Size(209, 17);
+            this.ToolStripStatusLabel1.Text = "Jade Encryption Classic © Jessica Amy";
             this.ToolStripStatusLabel1.Click += new System.EventHandler(this.ToolStripStatusLabel1_Click);
             // 
             // ToolStripStatusLabel5
             // 
             this.ToolStripStatusLabel5.Name = "ToolStripStatusLabel5";
-            this.ToolStripStatusLabel5.Size = new System.Drawing.Size(243, 17);
+            this.ToolStripStatusLabel5.Size = new System.Drawing.Size(265, 17);
             this.ToolStripStatusLabel5.Spring = true;
             // 
             // ToolStripStatusLabel2
@@ -600,7 +600,7 @@
             this.Controls.Add(this.MenuStrip1);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Main";
-            this.Text = "Jade Encryption";
+            this.Text = "Jade Encryption Classic";
             this.Load += new System.EventHandler(this.Main_Load);
             this.Sidebar.ResumeLayout(false);
             this.Sidebar.PerformLayout();
