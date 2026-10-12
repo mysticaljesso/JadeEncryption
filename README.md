@@ -1,10 +1,60 @@
-# Jade Encryption
+# Project Update: Transition to Jade Encryption Classic, New Fork, and Future Plans
 
-# I just want to clear up some confusion I one of the developers who worked together with the original developer we wrote this project together I decided not to have my name in the credit and keep this private he gave me permission to take over the project and continue its legacy he has just decided to step back and do programming professionally and works for as software engineer for a company and works professionally writing software and wants to keep it private he gave me permission to completely take over the code base and i do understand the code base we talked about it over coffee i liked programming this project and its what got me into coding as a teen and i  wanna to continue its legacy he wrote the about tis project and updated a few things and people thought i was the original developer who published it i was just unnamed because i didn't want my name known on a somewhat niche popular product this is why there is no comments i personally didn't want to me name to be in the project at the time and the developer seems to remember literally everything he has a photographic memory and i thought he was bluffing when he was explaining all the parts he wrote and i vaguely remember the parts i wrote i have archived this as posted it under my personal name as a project I am starting a company dealing with software development and will be building based on this codebase under a company name as jade encryption without the classic the design ideas and philosophy that Dylan had with computer security and freedom of speech where he gave me permission to share this with you all he literally followed guides from the NSA for to prevent someone stealing his computer and getting his code I am not joking at all but he literally glues his memory into his computer wipes zeros to his drive 35 times and dumps his hard drive platters around town just and all that on his computer is source code and cat videos anyways keep gluing your ram into your desktop and encrypting your SSD with aes two fish serpent 35 times for no fucking reason and keep killing those SSDs my nutty friend i did explain to him that this his threat model is literally someone breaking into his hosue to sell his computer not fucking state level actors fucking dumping his memory using cold boot the guy literally just google searches why do girls farts or how to look after a pet rock... he didn't realize that normal people just keep use a password and a password manager we discussed the future of this software and decided how it will continue and we are talking about the direction of this project and all his changes and edits will be listed under my name.
 
-Jade Encryption is a revived C# encryption tool originally created as my first programming project. After years of abandonment, I decided to bring it back to life, clean it up, and prepare it for a modern future. Version **1.1.1** is a small maintenance update, but the project is officially active again.
+Hi everyone, 
+
+I want to clear up some confusion regarding the authorship, current status, and the future of this project.
+
+This software was originally co-developed by myself and a close colleague. At the time of its initial release, I chose to remain anonymous and left my name out of the credits to maintain my privacy. The original developer recently decided to step back from the project to focus entirely on their professional career as a software engineer. Before doing so, they officially handed full ownership of the codebase and project legacy over to me. 
+
+We are both incredibly proud of what this project became. Since it was the very thing that sparked my passion for programming as a teenager, I am currently in the process of setting up everything to ensure its legacy stays alive and secure for the community.
 
 ---
+
+## 🛠️ The Roadmap: Classic vs. Modern
+
+To transition smoothly, this repository is receiving **one final update** to link it to our new ecosystem, and the project will split into two separate paths moving forward:
+
+### 1. Jade Encryption Classic (This Repository)
+* This original repository is being **officially archived under my personal name for legacy reasons**. It is now known as the **Classic Version**.
+* The original developer’s goal was to build a simple, straightforward utility for encryption—much like what WinRAR is for archiving. 
+* **Pricing & Store Distribution:** The signed binary for the Classic version is available on the store for **$1.00 USD**. 
+
+### 2. Jade Encryption Modern (New Company Fork)
+* I am officially forking this project over to my company's repository to develop a brand-new, **Modern Version**.
+* **What’s changing:** The Modern version is a full-blown commercial product featuring a completely modern graphical user interface, advanced features, and seamless cross-platform support across Windows, Linux, and macOS. The pricing structure for the Modern builds will be finalized based on market standards closer to launch.
+
+---
+
+## 📋 Licensing & Store Account Security
+
+For the **Jade Encryption Classic** store release, we are implementing a fair but strict licensing structure:
+
+| Use Case | Pricing Model | Device Limit |
+| :--- | :--- | :--- |
+| **Personal Use** | $1.00 USD (One-time buy) | **Unlimited personal computers** owned by you |
+| **Enterprise / Corporate Use** | $1.00 USD **per PC** | Volume licensing model based on active deployments |
+
+### 🔒 A Note on Store Account Sharing
+While personal use allows you to install the app on as many of your own computers as you want, **please do not go sharing your app store account around.** We don't need eight billion people using a single user account. 
+
+More importantly, sharing your master store credentials is a massive security hazard. If you are using a dedicated encryption software to protect your files, leaking your account access to others completely defeats the purpose of your security workflow. Keep your accounts locked down.
+
+---
+
+## ⚠️ A Serious Warning on Piracy & Safety
+
+Please do **not** download or pirate this software from unauthorized third-party sites or unofficial binaries. 
+
+Because the code is open-source, it is incredibly easy for some malicious actor to clone this project and bundle a modified version with a cryptocurrency scam, a phishing link, or old-school malware. Sticking strictly to the official GitHub source releases or the official signed store builds is the only way to ensure your device and data stay safe.
+
+---
+
+## My Future Role
+
+Please note that I am in the process of handling all the store registrations and administrative logistics right now. I will **not** be actively coding or personally providing technical support for these repositories moving forward. My role will be strictly administrative—dealing with the official store listings, managing publishers' duties, pushing out compiled releases, and overseeing the company fork.
+
+Thank you all for your incredible support over the years. I am excited to protect the legacy of Jade Encryption and look forward to seeing what the community builds with both the Classic and Modern versions!
 
 ## About the Project
 
